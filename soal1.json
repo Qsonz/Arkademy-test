@@ -1,0 +1,34 @@
+{"My BIO" :
+	[
+		{	"Nama" : "Muhammad Ikhsam",
+			"Umur" : "20",
+			"Alamat" :"Puncak",
+			"hobbi" :"Gaming, Editing",
+			"is_married " : "Single",
+			"list_school" : [
+								{
+								"Nama" :"MI AL - IKHLAS" ,
+								"Masuk" :"2006",
+								"Lulus" :"2011",
+								}
+								{
+								"Nama" :"SMP PGRI TUGU " ,
+								"Masuk" :"2011",
+								"Lulus" :"2015",
+								}
+								{
+								"Nama" :"SMKN 1 CIBINONG" ,
+								"Masuk" :"2015",
+								"Lulus" :"2017",
+								}
+							],
+			"Keterampilan" : "Normal",
+			"interest_in_coding" :"YES"	
+
+
+
+		}
+	]
+	
+}
+
